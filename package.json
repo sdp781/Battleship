@@ -1,0 +1,19 @@
+{
+  "name": "Battlefield",
+  "main": "battleship.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "socket.io": "^1.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdp781/"
+  },
+  "author": "Sergey Potashnikov"
+  }
+}
